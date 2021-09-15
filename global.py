@@ -4,6 +4,7 @@
 # Created on: Sept 2021
 # This Program global and local variable
 
+# global variable
 variable_x = 25
 
 
