@@ -38,6 +38,8 @@ def global_variable():
 
 
 def main():
+    # This function is about global and local variable
+
     local_variable()
     global_variable()
     print("\nDone")
